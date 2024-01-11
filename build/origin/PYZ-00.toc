@@ -1,4 +1,4 @@
-('/Users/andrejbulatov/Projects/Script-transfer-to-Calendar-Py/build/origin/PYZ-00.pyz',
+('/Users/andrejbulatov/Projects/Script-transfer-to-Calendar-Py/UUST-Calendar-to-ics/build/origin/PYZ-00.pyz',
  [('__future__',
    '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/__future__.py',
    'PYMODULE'),
